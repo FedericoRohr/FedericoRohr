@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FedericoRohr
 - 👀 I’m interested in Back End
-- 🌱 I’m currently learning Spring boot and SQL
+- 🌱 I’m currently Fiware Iot Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohrfede@gmail.com
 
